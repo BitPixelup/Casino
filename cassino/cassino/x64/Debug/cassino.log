@@ -1,0 +1,3 @@
+﻿  cassino.cpp
+B:\development-projects\Cpp\Cassino\cassino\cassino.cpp(16,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  cassino.vcxproj -> B:\development-projects\Cpp\Cassino\cassino\x64\Debug\cassino.exe
